@@ -6,5 +6,5 @@ def consecutive(arr, a, b):
             return arr[i + 1] == a
 
 # Another solution
-def consecutive(arr, a, b):
-    return abs(arr.index(a) - arr.index(b)) == 1
+# def consecutive(arr, a, b):
+#     return abs(arr.index(a) - arr.index(b)) == 1
